@@ -1,0 +1,8 @@
+/*De esta forma se agregan nuevos tipos de fuentes a CSS.*/
+@font-face{
+	font-family: "adam";
+	src:url("../fonts/Roboto/Roboto-MediumItalic.ttf") 
+	format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
